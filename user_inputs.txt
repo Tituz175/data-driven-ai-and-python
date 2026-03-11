@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Tobi Oyekanmi
+—————————————-
+
+Question 1: i can see 10 columns, with datatype of float, string, int and bool. the review is structured in a table form, rows and columns.
+Question 2: the dataset is about amazon review. based on what i can see its what i am expecting.
+Question 3: the display width was modified
+Question 4: this immediate dataset has more coumns than the previous dataset. 
+Question 5: the pandas info dataframe method, it gives more insight to the data 
+Question 6: The higher the price the lower the frequency rating
+Question 7: product with lower price has more rating than the highly priced product
